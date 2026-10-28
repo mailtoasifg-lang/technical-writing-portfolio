@@ -1,6 +1,4 @@
-# NexaReports Release Notes (Updated)
-
-## A. Draft Release Notes
+# NexaReports Release Notes
 
 ### New Features
 
@@ -41,7 +39,6 @@ Corrected the message displayed when a search completes successfully but returns
 - Successful searches that return matching records continue to display search results.
 - Failed searches continue to display the existing error message.
 
----
 
 
 
