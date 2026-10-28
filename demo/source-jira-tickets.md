@@ -1,6 +1,7 @@
 This is a fictional product name: **NexaReports**
 
-## Jira ID: NXR 101 - Export reports to CSV
+## Jira ID: NXR 101 - New Feature
+## Export reports to CSV
 **Description**: Users currently view generated reports in the NexaReports application. They need an option to export report data for further analysis in spreadsheet applications.
 
 **Requirements**
